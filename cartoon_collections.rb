@@ -29,5 +29,5 @@ def find_the_cheese(array)
       return result
     end #if
   end #do
-  
+  return result
 end #End find_the_cheese
